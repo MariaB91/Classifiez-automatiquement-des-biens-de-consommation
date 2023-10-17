@@ -5,7 +5,7 @@ Pour l'instant, l'attribution de la catégorie d'un article est effectuée manue
 
 Pour rendre l’expérience utilisateur des vendeurs (faciliter la mise en ligne de nouveaux articles) et des acheteurs (faciliter la recherche de produits) la plus fluide possible, et dans l'optique d'un passage à l'échelle, il devient nécessaire d'automatiser cette tâche.
 
-#Livrables
+# Livrables
 Un ou des notebooks (ou des fichiers .py) contenant les fonctions permettant le prétraitement et la feature extraction des données textes et images ainsi que les résultats de l’étude de faisabilité (graphiques, mesure de similarité) 
 Un notebook de classification supervisée des images
 Un script Python (notebook ou fichier .py) de test de l’API et le fichier au format “csv” contenant les produits extraits
